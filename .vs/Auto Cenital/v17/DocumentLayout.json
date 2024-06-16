@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C8146C-76B6-85DF-929A-29CAFECA7DB7}|Assembly-CSharp.csproj|c:\\users\\nicko\\desktop\\6to\\videojuegos\\auto cenital\\assets\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C8146C-76B6-85DF-929A-29CAFECA7DB7}|Assembly-CSharp.csproj|solutionrelative:assets\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C8146C-76B6-85DF-929A-29CAFECA7DB7}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\assets\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C8146C-76B6-85DF-929A-29CAFECA7DB7}|Assembly-CSharp.csproj|solutionrelative:assets\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C8146C-76B6-85DF-929A-29CAFECA7DB7}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\assets\\smokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C8146C-76B6-85DF-929A-29CAFECA7DB7}|Assembly-CSharp.csproj|solutionrelative:assets\\smokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C8146C-76B6-85DF-929A-29CAFECA7DB7}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C8146C-76B6-85DF-929A-29CAFECA7DB7}|Assembly-CSharp.csproj|solutionrelative:assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DayNightCycle.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\Assets\\DayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\DayNightCycle.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\Assets\\DayNightCycle.cs",
+              "RelativeToolTip": "Assets\\DayNightCycle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T02:09:51.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmokeController.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\Assets\\SmokeController.cs",
+              "RelativeDocumentMoniker": "Assets\\SmokeController.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\Assets\\SmokeController.cs",
+              "RelativeToolTip": "Assets\\SmokeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T02:01:08.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\Assets\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\Assets\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\FollowPlayer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T01:32:29.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\Assets\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Assets\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\Auto Cenital\\Assets\\VehicleController.cs",
+              "RelativeToolTip": "Assets\\VehicleController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T00:48:13.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
